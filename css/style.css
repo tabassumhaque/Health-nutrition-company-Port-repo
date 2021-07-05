@@ -1,3 +1,32 @@
-body{
-    background-color: aqua;
+body {
+  background-color: #fef0ff;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+.top-banner {
+}
+.com-color1 {
+  color: #7b1fbb;
+}
+.com-color2 {
+  color: #ec3967;
+}
+section {
+  display: flex;
+}
+.top-left {
+  width: 50%;
+  padding: 10% 5% 0 5%;
+}
+.top-right img {
+  width: 80%;
+  padding: 8%;
+}
+.link-button1 {
+  text-decoration: none;
+  background-image: linear-gradient(#7b1fbb, #ec3967);
+  color: white;
+  font-weight: 700;
+  padding: 10px 25px;
+  border-radius: 10px;
 }
