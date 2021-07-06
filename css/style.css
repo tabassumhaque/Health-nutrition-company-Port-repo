@@ -131,9 +131,9 @@ body {
   box-shadow: 5px 10px 30px #270a0a14;
 }
 .service-box img {
-  width: 90px;
-  height: 90px;
-  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
   object-fit: cover;
 }
 
@@ -248,7 +248,7 @@ body {
 }
 footer {
   text-align: center;
-  border: 1px solid rgba(232, 232, 232, 0.5);
+  border: 1px solid #e8e8e880;
   background-color: #000000;
 }
 footer p {
